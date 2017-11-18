@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notification Demo</string>
+
+    <!-- Alibaba MNS Service details-->
+    <!-- Please replace this details with your own-->
+    <!--Public Endpoint-->
+    <string name="Endpoint">UPDATE YOUR ENDPOINT FOR QUEUES HERE</string>
+    <!-- Access ID -->
+    <string name="AccessKey">UPDATE YOUR ACCESS ID</string>
+    <!-- Access key Secret -->
+    <string name="AccessKeySecret">UPDATE YOUR ACCESS KEY HERE</string>
+    <!-- Queue Names -->
+    <string name="QueueName_1">-QUEUE 1 FOR SEND AND RECEIVE MESSAGE</string>
+    <string name="QueueName_2">QUEUE 2 FOR NOTIFICATIONS</string>
+
+</resources>
