@@ -94,7 +94,7 @@ public class ReceiveService extends Service {
 
     public void serviceMethod(){
 
-        CloudAccount account = new CloudAccount(getString(R.string.AccessKey), getString(R.string.AccessKeySecret), "http://5465505358903400.mns.ap-southeast-1.aliyuncs.com");
+        CloudAccount account = new CloudAccount(getString(R.string.AccessKey), getString(R.string.AccessKeySecret), getString(R.string.Endpoint));
         MNSClient client = account.getMNSClient();
         RcvNtfcnTask receiveNotification = new RcvNtfcnTask(this);
         receiveNotification.execute(client);
