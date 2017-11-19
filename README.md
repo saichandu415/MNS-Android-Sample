@@ -11,14 +11,14 @@ This application shows a demo of Notification & Messaging services capability of
 
 |                                          Home                                         |                                               Sending Message                                               |
 |:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-|<img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Home.png" width="540" height="960" /> | <img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Message_Sending_inProgress.png" width="540" height="960" />| 
+|<img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Home.png" width="432" height="768" /> | <img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Message_Sending_inProgress.png" width="432" height="768" />| 
 
 |                                          Messages Sent                                         |                                               Receiving Messages                                              | 
 |:----------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-|<img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Messages_Sent.png" width="540" height="960" /> |<img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Receiving_Message_inProgress.png" width="540" height="960" />|
+|<img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Messages_Sent.png" width="432" height="768" /> |<img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Receiving_Message_inProgress.png" width="432" height="768" />|
 
 
 
 |                                        Messages Received                                         |                                               Sending Notification                                               |                                         Notifications Received                                         |
 |:-------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Recevied_Message.png" width="540" height="960" /> | <img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Sending_Notification_inProgress.png" width="540" height="960" /> | <img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Notification_Received.png" width="540" height="960" /> |
+| <img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Recevied_Message.png" width="432" height="768" /> | <img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Sending_Notification_inProgress.png" width="432" height="768" /> | <img src="https://github.com/saichandu415/MNS-Android-Sample/raw/master/snapshots/Notification_Received.png" width="432" height="768" /> |
